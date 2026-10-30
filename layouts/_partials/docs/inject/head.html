@@ -1,0 +1,5 @@
+{{/* Overrides the theme's empty hook: loads project CSS through Hugo Pipes. */}}
+{{ with resources.Get "css/custom.css" }}
+  {{ $css := . | minify | fingerprint "sha256" }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
+{{ end }}

@@ -1,0 +1,3 @@
+# Hugo extended: the Book theme compiles SCSS, which needs the extended binary.
+[tools]
+hugo-extended = "0.169.0"

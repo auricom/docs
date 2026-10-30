@@ -1,0 +1,13 @@
+/* Task lists: the checkbox is the marker, so drop the bullet. */
+.markdown li:has(> input[type="checkbox"]) {
+    list-style: none;
+    margin-inline-start: -1.4rem;
+}
+
+.markdown input[type="checkbox"] {
+    width: 1rem;
+    height: 1rem;
+    vertical-align: -0.15em;
+    margin-inline-end: 0.4rem;
+    accent-color: var(--color-link);
+}

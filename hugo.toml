@@ -1,0 +1,25 @@
+# Hugo site config — theme: https://github.com/alex-shpak/hugo-book
+baseURL = "http://localhost:1313/"
+languageCode = "fr"
+defaultContentLanguage = "fr"
+title = "Docs"
+theme = "hugo-book"
+enableGitInfo = false
+disableKinds = ["taxonomy", "term"]
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 2
+
+[params]
+  # light, dark, or auto (follows the OS)
+  BookTheme = "auto"
+  # the section rendered as the sidebar menu
+  BookSection = "docs"
+  BookToC = true
+  BookSearch = true
+  BookComments = false
+  BookDateFormat = "2 January 2006"
