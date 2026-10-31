@@ -6,7 +6,7 @@ bookToC: true
 
 # 🏡 Plan d'entretien de la maison
 
-> Fréquences indicatives : adaptez-les à votre usage, à la dureté de l'eau de votre commune et aux notices de vos appareils.
+> Fréquences indicatives : adaptez-les à votre usage et aux notices des appareils. L'eau est de **dureté moyenne** : les cadences de détartrage ci-dessous sont prévues pour ce cas.
 
 ---
 
@@ -70,7 +70,7 @@ bookToC: true
 | Engrais rosiers | 2×/an | Printemps + après 1re floraison |
 | Butter le pied | Annuel | Novembre (régions froides) |
 
-### Pelouse & divers (si applicable)
+### Pelouse & tondeuse
 | Tâche | Fréquence | Période |
 |---|---|---|
 | Tonte | Hebdomadaire | Avril–octobre |
@@ -115,9 +115,21 @@ bookToC: true
 |---|---|
 | Vider le filtre à peluches | À chaque utilisation |
 | Vider le bac de condensation (si pas d'évacuation directe) | À chaque utilisation |
-| Nettoyer le condenseur / filtre de la pompe à chaleur | Mensuel |
+| Nettoyer le condenseur / le filtre (modèle à pompe à chaleur) | Mensuel |
 | Nettoyer le capteur d'humidité (tambour) | Trimestriel |
 | Dépoussiérer la gaine d'évacuation (si modèle à évacuation) | Annuel |
+
+### Hotte
+| Tâche | Fréquence |
+|---|---|
+| Laver les filtres à graisse (lave-vaisselle) | Mensuel |
+| Remplacer le filtre à charbon (si recyclage) | Tous les 3 à 6 mois |
+
+### Four & micro-ondes
+| Tâche | Fréquence |
+|---|---|
+| Four : nettoyage / pyrolyse | Mensuel, selon usage |
+| Micro-ondes : nettoyage | Hebdomadaire |
 
 ---
 
@@ -136,18 +148,22 @@ bookToC: true
 
 ## 🏠 Toiture & gouttières
 
+Combles perdus, peu accessibles : l'inspection se fait depuis la trappe. Faire appel à un professionnel si l'accès ou un désordre le justifie.
+
 | Tâche | Fréquence | Période |
 |---|---|---|
 | Nettoyer les gouttières et les descentes | 2×/an | Fin d'automne + printemps |
 | Inspection visuelle des tuiles (cassées, glissées), faîtage, solins | Annuel | Après l'hiver / après tempête |
 | Vérifier les crapaudines et les grilles anti-feuilles | 2×/an | Avec le nettoyage |
 | Démoussage + traitement anti-mousse | Tous les 3 à 5 ans | Printemps / automne |
-| Vérifier les combles (traces d'humidité, isolation, nuisibles) | Annuel | — |
+| Inspection visuelle des combles depuis la trappe (humidité, isolation, nuisibles) | Annuel | — |
 | Contrôle par un couvreur | Tous les 5 ans | — |
 
 ---
 
 ## 💨 VMC simple flux
+
+Même limite d'accès pour les gaines dans les combles : contrôler ce qui est visible depuis la trappe, et un professionnel si besoin.
 
 | Tâche | Fréquence |
 |---|---|
@@ -155,7 +171,7 @@ bookToC: true
 | Nettoyer les entrées d'air des fenêtres / murs | Semestriel |
 | Vérifier que le moteur tourne (feuille de papier sur une bouche) | Semestriel |
 | Dépoussiérer le caisson et les pales du moteur | Annuel |
-| Vérifier les gaines (écrasées, déboîtées) dans les combles | Annuel |
+| Contrôler les gaines visibles depuis la trappe (écrasées, déboîtées) | Annuel |
 | Contrôle / nettoyage des conduits par un pro | Tous les 3 à 5 ans |
 
 ---
@@ -192,54 +208,104 @@ bookToC: true
 
 ---
 
-## 🤔 Ce que vous avez peut-être oublié
+## 🔥 Chauffage & eau chaude
 
-À cocher / supprimer selon votre maison :
+Pompe à chaleur air/eau pour le chauffage et l'eau chaude, et ballon électrique. Pas de chaudière, de poêle ni de climatisation.
 
-### Chauffage & eau chaude
-- [ ] **Chaudière gaz / fioul / bois** : entretien par un professionnel **obligatoire chaque année**
-- [ ] **Pompe à chaleur** (4 à 70 kW) : entretien **obligatoire tous les 2 ans**
-- [ ] **Climatisation** : nettoyer les filtres des unités intérieures tous les mois en période d'usage, entretien pro tous les 2 ans
-- [ ] **Ramonage** cheminée / poêle / chaudière : 1 à 2×/an selon le règlement sanitaire de votre département (garder le certificat pour l'assurance)
-- [ ] **Chauffe-eau / ballon** : actionner le groupe de sécurité **1×/mois**, vidange + contrôle de l'anode tous les 2 à 3 ans
-- [ ] **Radiateurs à eau** : purge avant la saison de chauffe (septembre–octobre)
-- [ ] **Poêle à granulés** : vider le cendrier tous les jours d'usage, nettoyage complet hebdomadaire
+### Pompe à chaleur air/eau
+| Tâche | Fréquence | Période |
+|---|---|---|
+| Dégager l'unité extérieure (feuilles, débris, végétation) sans obstruer les grilles | Selon besoin | Avant la saison de chauffe, et après la chute des feuilles |
+| Nettoyer les filtres accessibles | Selon la notice | — |
+| Vérifier la production (chauffage, eau chaude, codes erreur) | Mensuel | Saison de chauffe |
+| Entretien par un professionnel (obligatoire) | Tous les 2 ans | De préférence avant l'hiver |
 
-### Sécurité
-- [ ] **Détecteurs de fumée (obligatoires)** : tester **1×/mois**, changer la pile selon modèle, remplacer l'appareil tous les 10 ans
-- [ ] **Détecteur de monoxyde de carbone** (si chaudière ou poêle) : test mensuel
-- [ ] **Tableau électrique** : appuyer sur le bouton « test » des interrupteurs différentiels **1×/mois** ou par trimestre
-- [ ] **Extincteur** : vérifier le manomètre annuellement
-- [ ] **Alarme / caméras** : test des batteries et capteurs 1×/an
+### Ballon / chauffe-eau électrique
+Eau de dureté moyenne : on garde la vidange et le contrôle de l'anode tous les 2 à 3 ans.
 
-### Eau & assainissement
-- [ ] **Fosse septique / micro-station** : vidange tous les 4 ans en moyenne (fosse) ou selon le modèle, contrôle SPANC
-- [ ] **Regards d'évacuation extérieurs** : contrôler et nettoyer 1×/an
-- [ ] **Adoucisseur d'eau** : recharger le sel, désinfection annuelle
-- [ ] **Compteur d'eau** : relever le soir et le matin sans consommation pour détecter une fuite (semestriel)
-- [ ] **Récupérateur d'eau de pluie** : nettoyer le filtre 2×/an, vider avant le gel
+| Tâche | Fréquence |
+|---|---|
+| Actionner le groupe de sécurité | 1×/mois |
+| Vidange + contrôle de l'anode | Tous les 2 à 3 ans |
 
-### Cuisine
-- [ ] **Hotte** : filtres à graisse au lave-vaisselle **1×/mois**, filtre à charbon à remplacer tous les 3 à 6 mois (si recyclage)
-- [ ] **Four** : nettoyage / pyrolyse mensuel selon usage
-- [ ] **Micro-ondes** : nettoyage hebdomadaire
-- [ ] **Bouilloire / cafetière** : détartrage mensuel
+### Radiateurs à eau
+| Tâche | Fréquence | Période |
+|---|---|---|
+| Purge | Annuel | Septembre–octobre |
 
-### Maison & extérieur
+---
+
+## 🚰 Assainissement
+
+Les eaux usées de la maison passent par une station de relevage, puis au tout-à-l'égout.
+
+### Station de relevage
+| Tâche | Fréquence |
+|---|---|
+| Vérifier le fonctionnement (cycles de pompe, pas d'odeur ni de débordement) | Au moins 1×/an, et dès qu'un signe apparaît |
+| Tester l'alarme, si l'installation en a une | Annuel |
+| Entretien selon la notice, ou par un professionnel | Annuel, ou selon le fabricant |
+
+### Compteur d'eau
+| Tâche | Fréquence |
+|---|---|
+| Relever le soir et le matin sans consommation (détecter une fuite) | Semestriel |
+
+---
+
+## 🔔 Sécurité
+
+### Détecteurs de fumée
+| Tâche | Fréquence |
+|---|---|
+| Test de fonctionnement | Mensuel |
+| Remplacement de la pile | Selon le modèle |
+| Remplacement de l'appareil | Tous les 10 ans |
+
+### Alarme / caméras
+| Tâche | Fréquence |
+|---|---|
+| Test des batteries et des capteurs | Annuel |
+
+### Tableau électrique
+| Tâche | Fréquence |
+|---|---|
+| Appuyer sur le bouton « test » des interrupteurs différentiels | 1×/mois ou par trimestre |
+
+---
+
+## 🪵 Portail, garage & terrasses
+
+### Portail et porte de garage motorisés
+| Tâche | Fréquence |
+|---|---|
+| Graissage et contrôle du fonctionnement | 1×/an |
+
+### Terrasse bois
+| Tâche | Fréquence |
+|---|---|
+| Nettoyage + saturateur | Tous les 1 à 2 ans |
+
+### Terrasse carrelage / dalles
+| Tâche | Fréquence |
+|---|---|
+| Nettoyage et traitement anti-mousse | Annuel |
+
+---
+
+## 📎 Autres / à confirmer
+
+Non confirmés pour cette maison. À intégrer, adapter ou retirer.
+
 - [ ] **Volets roulants / battants** : nettoyage et graissage des rails / gonds 1×/an
 - [ ] **Fenêtres** : nettoyer les rails et les trous d'évacuation d'eau 1×/an, graisser les ferrures
-- [ ] **Portail / porte de garage motorisés** : graissage et contrôle 1×/an
-- [ ] **Terrasse bois** : nettoyage + saturateur tous les 1 à 2 ans
-- [ ] **Terrasse carrelage / dalles** : nettoyage annuel, anti-mousse
 - [ ] **Façade** : inspection des fissures annuelle, nettoyage tous les 10 ans environ
-- [ ] **Clôtures / portillons** : contrôle annuel
 - [ ] **Matelas** : retourner tous les 3 mois
 - [ ] **Aspirateur** : vider / laver les filtres mensuellement
+- [ ] **Assurance habitation** : vérifier la déclaration de la piscine et des panneaux photovoltaïques ; conserver les justificatifs d'entretien (pompe à chaleur, station de relevage, photovoltaïque)
+- [ ] **Contrat d'achat de l'électricité photovoltaïque** : vérifier les factures / relevés annuels
 
-### Administratif
-- [ ] Vérifier le contrat d'**assurance habitation** (déclaration de la piscine, des panneaux PV)
-- [ ] Ranger tous les justificatifs d'entretien (chaudière, ramonage, fosse) : l'assureur peut les demander en cas de sinistre
-- [ ] Contrat d'achat de l'électricité photovoltaïque : vérifier les factures / relevés annuels
+**Hors périmètre** (absents) : chaudière gaz, fioul ou bois, climatisation, poêle, ramonage, détecteur de monoxyde de carbone, extincteur, fosse septique ou micro-station, adoucisseur, récupérateur d'eau de pluie.
 
 ---
 
@@ -252,6 +318,7 @@ bookToC: true
 ### Chaque semaine
 - [ ] Piscine (en saison) : skimmers, préfiltre, analyses, robot
 - [ ] Filtre du lave-vaisselle
+- [ ] Micro-ondes
 - [ ] Nettoyage salles de bain et WC
 - [ ] Frigo : tri des aliments
 - [ ] Joint du hublot du lave-linge
@@ -260,11 +327,13 @@ bookToC: true
 ### Chaque mois
 - [ ] Tester les détecteurs de fumée
 - [ ] Actionner le groupe de sécurité du chauffe-eau
+- [ ] PAC : vérifier la production (saison de chauffe)
 - [ ] Lave-vaisselle : cycle à vide
 - [ ] Lave-linge : cycle à vide + bac à produits
 - [ ] Sèche-linge : condenseur
 - [ ] Frigo : nettoyage intérieur
 - [ ] Hotte : filtres à graisse
+- [ ] Four : nettoyage / pyrolyse selon usage
 - [ ] Détartrage WC
 - [ ] Bondes des douches / baignoire / éviers
 - [ ] Relevé de production photovoltaïque
@@ -278,7 +347,6 @@ bookToC: true
 - [ ] Mousseurs, pommeaux de douche, siphons des SDB
 - [ ] Onduleur photovoltaïque
 - [ ] Bouton test des différentiels
-- [ ] Retourner les matelas
 
 ### Chaque semestre
 - [ ] Gouttières (printemps + fin d'automne)
@@ -287,13 +355,16 @@ bookToC: true
 - [ ] Siphons des éviers, fuites sous les éviers
 - [ ] Entrées d'air et moteur VMC
 - [ ] Inspection des panneaux PV
+- [ ] Hotte : filtre à charbon si recyclage (3 à 6 mois)
 - [ ] Chasse d'eau des WC
 - [ ] Relevé du compteur d'eau (fuites)
 
 ### Chaque année
-- [ ] Entretien chaudière (obligatoire) / ramonage
-- [ ] Inspection toiture et combles
-- [ ] Caisson et gaines VMC
+- [ ] Purge des radiateurs (septembre–octobre)
+- [ ] PAC : dégager l'unité extérieure, filtres selon la notice
+- [ ] Station de relevage (fonctionnement, alarme si présente, entretien notice ou pro)
+- [ ] Inspection toiture ; combles depuis la trappe
+- [ ] Caisson VMC ; gaines visibles depuis la trappe
 - [ ] Grille arrière du frigo, dégivrage congélateur
 - [ ] Gaine du sèche-linge, tuyaux du lave-linge
 - [ ] Joints silicone
@@ -301,18 +372,26 @@ bookToC: true
 - [ ] Nettoyage PV si encrassé
 - [ ] Taille des rosiers, fruitiers, arbustes, élagage des arbres
 - [ ] Remise en route + hivernage piscine
-- [ ] Volets, fenêtres, portail
+- [ ] Portail et porte de garage motorisés
+- [ ] Alarme / caméras (batteries et capteurs)
+- [ ] Terrasse carrelage / dalles (nettoyage, anti-mousse)
 - [ ] Mise hors gel des robinets extérieurs
 
+### Tous les 1 à 2 ans
+- [ ] Terrasse bois : nettoyage + saturateur
+
 ### Tous les 2 à 5 ans
-- [ ] Entretien pompe à chaleur / clim (2 ans)
+- [ ] Entretien professionnel de la pompe à chaleur (obligatoire, 2 ans)
 - [ ] Contrôle PV par un pro (2–3 ans)
-- [ ] Vidange du chauffe-eau (2–3 ans)
+- [ ] Vidange du chauffe-eau et contrôle de l'anode (2–3 ans)
 - [ ] Démoussage de la toiture (3–5 ans)
 - [ ] Conduits VMC par un pro (3–5 ans)
 - [ ] Contrôle par un couvreur (5 ans)
 - [ ] Média filtrant piscine (sable : 5–7 ans)
-- [ ] Vidange fosse septique (~4 ans)
+
+### Tous les 10 ans
+- [ ] Remplacer les détecteurs de fumée
+- [ ] Remplacement de l'onduleur photovoltaïque (~10–15 ans)
 
 ---
 
@@ -322,13 +401,13 @@ bookToC: true
 |---|---|
 | **Janvier** | Inspection des arbres, entretien de la tondeuse |
 | **Février** | Taille des fruitiers, traitement d'hiver (huile blanche / bouillie bordelaise) |
-| **Mars** | Taille des rosiers et arbustes à floraison estivale, inspection de la toiture après l'hiver |
-| **Avril** | Nettoyage des gouttières, nettoyage PV, remise en route de la piscine, engrais rosiers |
+| **Mars** | Taille des rosiers et arbustes à floraison estivale, inspection de la toiture après l'hiver, graissage du portail et de la porte de garage |
+| **Avril** | Nettoyage des gouttières, nettoyage PV, terrasses (carrelage / dalles ; bois + saturateur si l'échéance tombe), remise en route de la piscine, engrais rosiers |
 | **Mai** | Démarrage de la saison piscine, taille des arbustes à floraison printanière |
 | **Juin** | 1re taille du laurier, éclaircissage des fruits |
 | **Juillet** | Taille en vert des fruitiers, surveillance piscine, arrosage |
 | **Août** | Surveillance piscine, arrosage, ramassage des fruits |
-| **Septembre** | 2e taille du laurier, purge des radiateurs, entretien chaudière avant l'hiver |
-| **Octobre** | Hivernage piscine, ramassage des feuilles, paillage |
-| **Novembre** | Gouttières (après la chute des feuilles), traitement des fruitiers, robinets extérieurs hors gel, butter les rosiers |
-| **Décembre** | Contrôle des combles, vérification des détecteurs et de l'extincteur, bilan annuel PV |
+| **Septembre** | 2e taille du laurier, purge des radiateurs (ou en octobre), dégager l'unité extérieure de la PAC |
+| **Octobre** | Hivernage piscine, ramassage des feuilles, paillage, contrôle de la station de relevage |
+| **Novembre** | Gouttières (après la chute des feuilles), dégager l'unité extérieure de la PAC, traitement des fruitiers, robinets extérieurs hors gel, butter les rosiers |
+| **Décembre** | Contrôle visuel des combles depuis la trappe, test de l'alarme et des caméras, bilan annuel PV |
