@@ -131,13 +131,18 @@ bookToC: true
 | Four : nettoyage / pyrolyse | Mensuel, selon usage |
 | Micro-ondes : nettoyage | Hebdomadaire |
 
+### Table à induction
+Siemens IQ700 EX651LYC1F. Nettoyage léger selon besoin.
+
 ---
 
 ## ☀️ Panneaux photovoltaïques
 
+Suivi de la production via le routeur solaire MSunPV.
+
 | Tâche | Fréquence |
 |---|---|
-| Surveiller la production (appli / compteur) pour repérer une baisse anormale | Mensuel |
+| Surveiller la production (MSunPV) pour repérer une baisse anormale | Mensuel |
 | Vérifier l'onduleur (voyants, codes erreur, aération) | Trimestriel |
 | Inspection visuelle (salissures, fientes, feuilles, ombrage par les arbres) | Semestriel |
 | Nettoyage à l'eau claire, sans pression (ou par un pro) si encrassé | 1×/an ou selon besoin |
@@ -161,9 +166,9 @@ Combles perdus, peu accessibles : l'inspection se fait depuis la trappe. Faire a
 
 ---
 
-## 💨 VMC simple flux
+## 💨 VMC simple flux hygroréglable (Renson Healthbox 3.0)
 
-Même limite d'accès pour les gaines dans les combles : contrôler ce qui est visible depuis la trappe, et un professionnel si besoin.
+Simple flux hygroréglable, à la demande. Pas de filtres classiques à remplacer. Même limite d'accès pour les gaines dans les combles : contrôler ce qui est visible depuis la trappe, et un professionnel si besoin.
 
 | Tâche | Fréquence |
 |---|---|
@@ -172,6 +177,7 @@ Même limite d'accès pour les gaines dans les combles : contrôler ce qui est v
 | Vérifier que le moteur tourne (feuille de papier sur une bouche) | Semestriel |
 | Dépoussiérer le caisson et les pales du moteur | Annuel |
 | Contrôler les gaines visibles depuis la trappe (écrasées, déboîtées) | Annuel |
+| Contrôle professionnel de l'unité d'extraction (1er contrôle complet ~2 ans après la pose, puis selon la notice) | Selon la notice |
 | Contrôle / nettoyage des conduits par un pro | Tous les 3 à 5 ans |
 
 ---
@@ -221,7 +227,7 @@ Pompe à chaleur air/eau pour le chauffage et l'eau chaude, et ballon électriqu
 | Entretien par un professionnel (obligatoire) | Tous les 2 ans | De préférence avant l'hiver |
 
 ### Ballon / chauffe-eau électrique
-Eau de dureté moyenne : on garde la vidange et le contrôle de l'anode tous les 2 à 3 ans.
+Atlantic Chauffeo+ 3000W 250L. Eau de dureté moyenne : on garde la vidange et le contrôle de l'anode tous les 2 à 3 ans.
 
 | Tâche | Fréquence |
 |---|---|
@@ -336,7 +342,7 @@ Non confirmés pour cette maison. À intégrer, adapter ou retirer.
 - [ ] Four : nettoyage / pyrolyse selon usage
 - [ ] Détartrage WC
 - [ ] Bondes des douches / baignoire / éviers
-- [ ] Relevé de production photovoltaïque
+- [ ] Relevé de production photovoltaïque (MSunPV)
 - [ ] Piscine : TAC et ligne d'eau (en saison)
 
 ### Chaque trimestre
@@ -385,6 +391,7 @@ Non confirmés pour cette maison. À intégrer, adapter ou retirer.
 - [ ] Contrôle PV par un pro (2–3 ans)
 - [ ] Vidange du chauffe-eau et contrôle de l'anode (2–3 ans)
 - [ ] Démoussage de la toiture (3–5 ans)
+- [ ] Unité d'extraction VMC (Healthbox) : 1er contrôle pro ~2 ans après la pose, puis selon la notice
 - [ ] Conduits VMC par un pro (3–5 ans)
 - [ ] Contrôle par un couvreur (5 ans)
 - [ ] Média filtrant piscine (sable : 5–7 ans)
