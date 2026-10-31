@@ -111,6 +111,8 @@ bookToC: true
 | Vérifier les tuyaux d'arrivée et de vidange | Annuel |
 
 ### Sèche-linge
+Samsung DV90DG6845LK.
+
 | Tâche | Fréquence |
 |---|---|
 | Vider le filtre à peluches | À chaque utilisation |

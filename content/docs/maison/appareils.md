@@ -21,6 +21,7 @@ bookToC: true
 | Lave-vaisselle | Siemens IQ300 SN63EX22CE |
 | Micro-ondes | Siemens IQ700 BF722L1B1 |
 | Réfrigérateur | Samsung RB37J5320WW |
+| Sèche-linge | Samsung DV90DG6845LK |
 | Table à induction | Siemens IQ700 EX651LYC1F |
 | VMC | Renson Healthbox 3.0 |
 | Routeur solaire | MSunPV |
