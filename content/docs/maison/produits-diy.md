@@ -6,65 +6,15 @@ bookToC: true
 
 # 🧴 Produits d'entretien faits maison
 
-> Priorités pour la maison de Croissy, tirées du carnet de recettes d'Alexandre Cressiot, « Et ça, j'en fais quoi ? » (recettes environ p. 145–181). Cette page dit **quoi préparer en premier**. Les recettes, les dosages et les gestes de préparation restent dans le livre, papier ou ebook. Les cadences restent dans [Entretien de la maison]({{< relref "docs/maison/entretien.md" >}}).
-
-L'eau est de **dureté moyenne**. La maison a deux WC, une cuisine (table à induction Siemens IQ700, hotte Novy, réfrigérateur Samsung), des douches, un lave-vaisselle Siemens IQ300 (SN63EX22CE), un lave-linge Samsung (WW80J5455MW) et un sèche-linge Samsung (DV90DG6845LK). L'ordre ci-dessous suit cet usage.
+Cette page sert à constituer le placard du ménage fait maison : ce qu'on a en stock, puis ce qu'on fabrique, dans l'ordre. Les recettes, les dosages et les gestes restent dans Alexandre Cressiot, « Et ça, j'en fais quoi ? » (recettes, p. 145–181).
 
 ---
 
-## Faire d'abord
+## À avoir en stock
 
-| Ordre | Produit | Pourquoi ici |
-|---|---|---|
-| 1 | Nettoyant citronné | Quotidien de la cuisine : plan de travail, induction, éclaboussures autour de la hotte. |
-| 2 | Produit sols | Sols de la maison. |
-| 3 | Gel détartrant WC | Calcaire (dureté moyenne) et deux cuvettes. |
-| 4 | Pastilles lave-vaisselle | Lave-vaisselle Siemens IQ300 SN63EX22CE. Le sel régénérant et le liquide de rinçage restent à recharger selon les voyants : les pastilles ne les remplacent pas. |
-| 5 | Lessive liquide | Lave-linge Samsung WW80J5455MW. |
+Noms seulement. Les quantités sont dans le livre.
 
----
-
-## Ensuite : salle de bain, calcaire, joints
-
-Les douches concentrent le calcaire et l'humidité. La VMC Renson Healthbox 3.0 extrait l'air humide ; son entretien (bouches, entrées d'air) reste dans le plan d'entretien. Les produits ci-dessous servent aux parois et aux joints.
-
-| Ordre | Produit | Pourquoi ici |
-|---|---|---|
-| 6 | Crème récurante **ou** pierre d'argile | Un seul des deux pour commencer (lavabo, douche, traces tenaces). Pas les deux stocks au début. |
-| 7 | Pâte joints | Joints de douche. Le contrôle annuel des joints silicone, et leur réfection, restent dans l'entretien. |
-| 8 | Spray antimoisissures | Coins et joints humides des douches. |
-| 9 | Spray antibuée | Parois de douche et miroirs. |
-
----
-
-## Secondaire
-
-| Ordre | Produit | Pourquoi ici |
-|---|---|---|
-| 10 | Liquide vaisselle au savon noir | Vaisselle à la main. Le savon solide pour la vaisselle peut attendre. |
-| 11 | Désinfecte-tout (alcool 70°) | En option. Si le nettoyant citronné couvre déjà le quotidien de la cuisine, ce spray n'est pas prioritaire. |
-| 12 | Nettoyant universel | Gros nettoyages saisonniers : portail, garage, jardin. Pas le produit du quotidien. |
-| 13 | Assouplissant | En option. Avec le sèche-linge Samsung DV90DG6845LK, il n'est pas prioritaire. |
-
----
-
-## Plus tard, seulement si le besoin apparaît
-
-Rien à stocker tant qu'un usage concret ne se présente.
-
-- Dégraissant épluchures
-- Solution coquilles d'œufs
-- Brillant breton — cuivre seulement
-- Pâte cuir
-- Solution shampouineuse
-
----
-
-## Courses de base
-
-Ingrédients qui reviennent, **noms seulement**. Les quantités sont dans le livre.
-
-### Socle
+### Ingrédients de base
 
 - Vinaigre blanc
 - Bicarbonate
@@ -74,7 +24,7 @@ Ingrédients qui reviennent, **noms seulement**. Les quantités sont dans le liv
 - Acide citrique
 - Percarbonate
 
-### Seulement si un produit optionnel le demande
+### Si un produit plus loin le demande
 
 - Alcool ménager 70°
 - Gomme xanthane
@@ -82,20 +32,55 @@ Ingrédients qui reviennent, **noms seulement**. Les quantités sont dans le liv
 - Glycérine
 - Tea tree et dispersant
 
+### Contenants et outils
+
+- Flacons spray vides, et quelques pots à couvercle
+- Entonnoir
+- Étiquettes
+- Gants
+- Brosse souple (joints)
+
+---
+
+## Produits à fabriquer
+
+Un produit à la fois, dans cet ordre. Pour la recette, ouvrir le livre aux **p. 145–181**.
+
+### Lot 1
+
+1. **Nettoyant citronné** — cuisine au quotidien. Recette : p. 145–181.
+2. **Produit sols** — sols. Recette : p. 145–181.
+3. **Gel détartrant WC** — détartrer les cuvettes. Recette : p. 145–181.
+4. **Pastilles lave-vaisselle** — lave-vaisselle. Recette : p. 145–181.
+5. **Lessive liquide** — linge. Recette : p. 145–181.
+
+### Lot 2
+
+6. **Crème récurante ou pierre d'argile** — lavabo, douche, traces tenaces. Un seul des deux pour commencer. Recette : p. 145–181.
+7. **Pâte joints** — joints de douche. Recette : p. 145–181.
+8. **Spray antimoisissures** — coins et joints humides. Recette : p. 145–181.
+9. **Spray antibuée** — parois de douche et miroirs. Recette : p. 145–181.
+10. **Liquide vaisselle au savon noir** — vaisselle à la main. Le savon solide attend. Recette : p. 145–181.
+11. **Désinfecte-tout (alcool 70°)** — en option, si le nettoyant citronné couvre déjà le quotidien. Recette : p. 145–181.
+12. **Nettoyant universel** — gros nettoyages (portail, garage, extérieur). Recette : p. 145–181.
+13. **Assouplissant** — linge, en option. Recette : p. 145–181.
+
+### Plus tard
+
+Rien à fabriquer tant qu'un usage concret ne se présente pas.
+
+- **Dégraissant épluchures** — dégraisser. Recette : p. 145–181.
+- **Solution coquilles d'œufs** — usage ponctuel. Recette : p. 145–181.
+- **Brillant breton** — cuivre seulement. Recette : p. 145–181.
+- **Pâte cuir** — cuir. Recette : p. 145–181.
+- **Solution shampouineuse** — shampoing d'une surface ou d'un textile. Recette : p. 145–181.
+
 ---
 
 ## Précautions
 
-- Gants et pièce aérée. À surveiller en particulier : cristaux de soude, acides (vinaigre blanc, acide citrique) et alcool ménager.
-- Ne pas improviser de mélanges. Ne pas mélanger un acide avec de l'eau de Javel.
+- Gants et aération, surtout avec les cristaux de soude, les acides (vinaigre blanc, acide citrique) et l'alcool ménager.
+- Ne pas improviser de mélange. Ne pas mélanger un acide avec de l'eau de Javel.
 - Étiqueter chaque flacon (nom, date).
 - Ranger hors de portée des enfants et des animaux.
-- Certaines préparations du livre utilisent de l'eau bouillante : risque de brûlure. Suivre le livre, sans reconstituer le geste de mémoire.
-
-Recettes, dosages et mode opératoire : Alexandre Cressiot, « Et ça, j'en fais quoi ? », environ p. 145–181.
-
----
-
-## Voir aussi
-
-- [Entretien de la maison]({{< relref "docs/maison/entretien.md" >}}) — cadences (WC, sel et liquide de rinçage du lave-vaisselle, lave-linge, douches, VMC, portail et garage).
+- Si la recette du livre passe par de l'eau bouillante : risque de brûlure. Suivre le livre.
