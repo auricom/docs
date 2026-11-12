@@ -20,13 +20,14 @@ bookToC: true
 | Lave-linge | Samsung WW80J5455MW |
 | Lave-vaisselle | Siemens IQ300 SN63EX22CE |
 | Micro-ondes | Siemens IQ700 BF722L1B1 |
+| Radiateurs | Acova, modèle à préciser |
 | Réfrigérateur | Samsung RB37J5320WW |
 | Sèche-linge | Samsung DV90DG6845LK |
 | Table à induction | Siemens IQ700 EX651LYC1F |
 | VMC | Renson Healthbox 3.0 |
 | Routeur solaire | MSunPV |
 
-La VMC est un simple flux hygroréglable, à la demande. Le suivi de production des panneaux passe par MSunPV.
+La VMC est un simple flux hygroréglable, à la demande. Le suivi de production des panneaux passe par MSunPV. Les radiateurs sont à eau, sur le circuit de la pompe à chaleur, avec des robinets thermostatiques.
 
 ---
 
