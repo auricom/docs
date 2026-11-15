@@ -237,9 +237,15 @@ Atlantic Chauffeo+ 3000W 250L. Eau de dureté moyenne : on garde la vidange et l
 | Vidange + contrôle de l'anode | Tous les 2 à 3 ans |
 
 ### Radiateurs à eau
+Acova (panneau ou tube vertical blanc), radiateurs à eau sur le circuit hydraulique de la pompe à chaleur. Purgeur manuel au coin supérieur, tête thermostatique sur le robinet du bas. Modèle à préciser.
+
 | Tâche | Fréquence | Période |
 |---|---|---|
-| Purge | Annuel | Septembre–octobre |
+| Purge | Annuel | Octobre (début de saison de chauffe) |
+| Vérifier la pression au manomètre du module hydraulique (en général 1–1,5 bar à froid, selon la notice) et la recompléter si besoin | Annuel | Après la purge |
+| Manœuvrer les robinets thermostatiques | Annuel | Fin de saison de chauffe |
+
+Chauffage coupé et radiateur froid. Clé de purge carrée, chiffon et récipient. Ouvrir d'un quart à un demi-tour, refermer quand l'eau coule sans bulles. Du rez-de-chaussée vers l'étage, puis recompléter la pression si besoin. Si de l'air revient chaque mois, suspecter une fuite ou une pression trop basse et appeler un chauffagiste.
 
 ---
 
@@ -369,6 +375,8 @@ Non confirmés pour cette maison. À intégrer, adapter ou retirer.
 
 ### Chaque année
 - [ ] Purge des radiateurs (septembre–octobre)
+- [ ] Pression du circuit de chauffage (manomètre du module hydraulique, 1–1,5 bar à froid selon notice, après la purge)
+- [ ] Manœuvrer les robinets thermostatiques des radiateurs (fin de saison)
 - [ ] PAC : dégager l'unité extérieure, filtres selon la notice
 - [ ] Station de relevage (fonctionnement, alarme si présente, entretien notice ou pro)
 - [ ] Inspection toiture ; combles depuis la trappe
@@ -416,7 +424,7 @@ Non confirmés pour cette maison. À intégrer, adapter ou retirer.
 | **Juin** | 1re taille du laurier, éclaircissage des fruits |
 | **Juillet** | Taille en vert des fruitiers, surveillance piscine, arrosage |
 | **Août** | Surveillance piscine, arrosage, ramassage des fruits |
-| **Septembre** | 2e taille du laurier, purge des radiateurs (ou en octobre), dégager l'unité extérieure de la PAC |
-| **Octobre** | Hivernage piscine, ramassage des feuilles, paillage, contrôle de la station de relevage |
+| **Septembre** | 2e taille du laurier, dégager l'unité extérieure de la PAC |
+| **Octobre** | Purge des radiateurs et pression du circuit, hivernage piscine, ramassage des feuilles, paillage, contrôle de la station de relevage |
 | **Novembre** | Gouttières (après la chute des feuilles), dégager l'unité extérieure de la PAC, traitement des fruitiers, robinets extérieurs hors gel, butter les rosiers |
 | **Décembre** | Contrôle visuel des combles depuis la trappe, test de l'alarme et des caméras, bilan annuel PV |
